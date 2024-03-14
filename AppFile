@@ -1,0 +1,14 @@
+import ExpandableTableComponent from "./components/Expandable";
+
+function App() {
+
+
+  return (
+    <>
+     {/* <ExpandableTable columns={columns} data={data} /> */}
+     <ExpandableTableComponent />
+    </>
+  );
+}
+
+export default App;
